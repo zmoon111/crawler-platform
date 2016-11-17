@@ -6,4 +6,4 @@ use pyspider and docker to build a crawler-platform
    >sh start.sh
 3. start crawler-platform
    >docker-compose up
-   >docker-compose -h 
+   >docker-compose -h
